@@ -2,9 +2,9 @@
 
 A free, native macOS app to follow your EVE Online characters and their corporation.
 
-**[⬇︎ Download the latest version](../../releases/latest)** — macOS 26 or later, Apple Silicon and Intel
+**[⬇︎ Download the latest version](https://github.com/Arkange-Crome/capsuleer-one/releases/latest)** — macOS 26 or later, Apple Silicon and Intel
 
-![Capsuleer One](screenshots/overview.png)
+![Capsuleer One](overview.png)
 
 ## Features
 
@@ -26,7 +26,7 @@ A free, native macOS app to follow your EVE Online characters and their corporat
 
 I don't have a paid Apple developer account: the app is **not notarized**, so macOS blocks it the first time.
 
-1. Download the `.dmg` from the [latest release](../../releases/latest), open it and drag **Capsuleer One** to **Applications**.
+1. Download the `.dmg` from the [latest release](https://github.com/Arkange-Crome/capsuleer-one/releases/latest), open it and drag **Capsuleer One** to **Applications**.
 2. Open the app. macOS says it cannot verify it: click **Done**.
 3. Open **System Settings > Privacy & Security**, scroll down and click **Open Anyway**, then confirm.
 4. Open the app again. macOS won't ask anymore.
@@ -37,7 +37,7 @@ You can check your download with the SHA-256 given in each release: `shasum -a 2
 
 ## Support
 
-Bugs and ideas: [open an issue](../../issues) or send an EVE mail to **Arkange Crome**.
+Bugs and ideas: [open an issue](https://github.com/Arkange-Crome/capsuleer-one/issues) or send an EVE mail to **Arkange Crome**.
 Capsuleer One is free, with no locked feature. ISK donations to Arkange Crome are welcome, never required.
 
 ---
